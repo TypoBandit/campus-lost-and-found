@@ -40,10 +40,9 @@ A Java desktop demo for recording lost and found items on campus, searching repo
 
 This is an educational demo, not a production system. Its admin password is hard-coded and displayed in the application; it does not provide secure authentication. Avoid entering real personal data. The embedded database is local to the machine running the program.
 
-## Team and contribution
+## Team project
 
-- Team project: Nakul and a teammate.
-- Individual contributions: Add each person's actual contributions after confirming them.
+ Developed by Nakul and a teammate. The project brings together a Java Swing interface, a local H2 database, and features for reporting, searching and managing lost and found items. Individual responsibilities have not been documented.
 
 ## Project structure
 
